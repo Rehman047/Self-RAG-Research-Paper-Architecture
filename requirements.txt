@@ -1,0 +1,12 @@
+pydantic
+python-dotenv
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+langchain-text-splitters
+langgraph
+fastembed
+faiss-cpu
+pypdf
+tavily-python
